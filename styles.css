@@ -92,9 +92,10 @@ footer{
     text-align:center;
     height:30px;
     padding-top:8px;
-    position:fixed;
+    /* position:fixed;
     bottom:0px;
-    left:0px;
+    left:0px; */
+    margin-bottom:-7px;
     font-family:italic;
 }
 #ab-head{

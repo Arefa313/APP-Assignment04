@@ -68,7 +68,7 @@ margin-left:10px;
     height:30px;
     text-align:center;
     position:absolute;
-    bottom:-57px;
+    bottom:-43px;
     visibility: hidden;
     padding-top:15px; 
 }
@@ -97,8 +97,8 @@ footer{
     left:0px;
     font-family:italic;
 }
-h2{
-    margin-left:5px;
+#ab-head{
+    margin-left:8px;
     padding-top:15px;
 }
 #ab-text{
@@ -127,7 +127,7 @@ h2{
 }
 #ab-row{
     justify-content:center;
-    padding-right:20px;
+    padding-right:23px;
 }
 .A{
     font-size:14px;
